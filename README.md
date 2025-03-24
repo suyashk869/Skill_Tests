@@ -18,7 +18,10 @@ The project requires the following CSV files:
 | `probo_2.csv` | Dataset for Persistence Test |
 | `probo_3.csv`     | Dataset for Learning Test |
 
-> **Note:** Ensure that these files are placed in the **project directory** before running the notebooks.
+> **Note:** We can access data from below dropbox link.
+> https://www.dropbox.com/scl/fo/w6aam0mi0bg8tpnemkqic/ACwRE6TbitPaLYns0TtFfts?rlkey=js126hc5elt4mxwg6da5x1s3p&e=1&st=mfegh89r&dl=0
+
+
 
 ---
 
