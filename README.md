@@ -3,9 +3,9 @@
 
 # 📊 **Skill Analysis Research**
 This project evaluates **user trading skills** through three statistical analyses:  
-1. **Skill Gradient Test** - Examines performance variation across different alpha values.  
-2. **Skill Persistence Test** - Evaluates skill retention month over month.  
-3. **Learning Curve Test** - Analyzes skill improvement over multiple events.  
+1. **Gradient Test** - Examines performance variation across different alpha values.  
+2. **Dilution Test** - Evaluates skill retention month over month.  
+3. **Learning Test** - Analyzes skill improvement over multiple events.  
 
 ---
 
@@ -14,9 +14,9 @@ The project requires the following CSV files:
 
 | 📁 File Name                  | Description |
 |------------------------------|------------|
-| `skill_gradient_data.csv`     | Dataset for Skill Gradient Test |
-| `skill_persistence_data_2024.csv` | Dataset for Skill Persistence Test |
-| `Learning_curve_data.csv`     | Dataset for Learning Curve Test |
+| `probo_1.csv`     | Dataset for Dilution Test |
+| `probo_2.csv` | Dataset for Persistence Test |
+| `probo_3.csv`     | Dataset for Learning Test |
 
 > **Note:** Ensure that these files are placed in the **project directory** before running the notebooks.
 
@@ -29,9 +29,9 @@ The research consists of three **Jupyter Notebooks**:
 
 | 📘 Notebook Name | Description |
 |-----------------|------------|
-| `skill_gradient_publish.ipynb` | Performs statistical tests on user performance across different **alpha parameters**. |
-| `skill_persistence_publish.ipynb` | Analyzes **month-to-month skill persistence** using Spearman correlation. |
-| `learning_curve_publish.ipynb` | Examines **long-term learning trends** using Spearman correlation and Mann-Kendall test. |
+| `dilution.ipynb` | Performs statistical tests on user performance across different **alpha parameters**. |
+| `persistence.ipynb` | Analyzes **month-to-month skill persistence** using Spearman correlation. |
+| `learning.ipynb` | Examines **long-term learning trends** using Spearman correlation and Mann-Kendall test. |
 
 ---
 
