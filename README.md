@@ -11,13 +11,13 @@ This project evaluates **user trading skills** through three statistical analyse
 ## 📂 **Dataset Overview**
 The project requires the following CSV files:  
 
-| 📁 File Name                  | Description |
-|------------------------------|------------|
-| `probo_1.csv`     | Dataset for Dilution Test |
+| 📁 File Name    | Description |
+|---------------|------------|
+| `probo_1.csv` | Dataset for Dilution Test |
 | `probo_2.csv` | Dataset for Persistence Test |
-| `probo_3.csv`     | Dataset for Learning Test |
+| `probo_3.csv` | Dataset for Learning Test |
 
-> **Note:** We can access data from below Dropbox link.  
+> **Note:** The dataset can be accessed from the following Dropbox link:  
 > [Dataset Link](https://www.dropbox.com/scl/fo/w6aam0mi0bg8tpnemkqic/ACwRE6TbitPaLYns0TtFfts?rlkey=js126hc5elt4mxwg6da5x1s3p&e=1&st=mfegh89r&dl=0)
 
 ---
@@ -25,7 +25,7 @@ The project requires the following CSV files:
 ## 📝 **Notebooks**  
 The research consists of four **Jupyter Notebooks**:  
 
-| 📘 Notebook Name | Description |
+| 📘 Notebook Name          | Description |
 |-----------------|------------|
 | `dilution.ipynb` | Performs statistical tests on user performance across different **alpha parameters**. |
 | `persistence.ipynb` | Analyzes **month-to-month skill persistence** using Spearman correlation. |
