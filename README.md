@@ -24,7 +24,7 @@ The research consists of four **Jupyter Notebooks**:
 | `dilution.ipynb` | Performs statistical tests on user performance across different **alpha parameters**. |
 | `persistence.ipynb` | Analyzes **month-to-month skill persistence** using Spearman correlation. |
 | `learning.ipynb` | Examines **long-term learning trends** using Spearman correlation and Mann-Kendall test. |
-| `skill_score_otp.ipynb` | Computes **skill scores** based on user performance metrics. |
+
 
 ## ⚙️ **Installation Instructions**
 To run the notebooks, install the required dependencies using:  
